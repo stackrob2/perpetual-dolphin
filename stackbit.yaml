@@ -1,0 +1,6 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+pagesDir: ""
+dataDir: _data
+staticDir: ""
+uploadDir: assets/images
